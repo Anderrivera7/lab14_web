@@ -37,6 +37,14 @@ export default function Header() {
                 Sobre Mí
               </Link>
             </li>
+            <li>
+              <Link
+                href="/contact"
+                className="text-gray-700 transition hover:text-blue-600"
+              >
+                Contacto
+              </Link>
+            </li>
           </ul>
         </div>
       </nav>
