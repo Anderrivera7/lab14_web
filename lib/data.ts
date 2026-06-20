@@ -44,6 +44,6 @@ export const personalInfo = {
     "Desarrollador apasionado por crear experiencias web excepcionales",
   email: "riveraanderson756@gmail.com",
   github: "https://github.com/Anderrivera7",
-  siteUrl: "https://tuportafolio.com",
+  siteUrl: "https://lab14-web-git-master-ander-s-projects2.vercel.app",
   avatar: "/images/avatar.png",
 };
