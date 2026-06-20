@@ -42,9 +42,8 @@ export const personalInfo = {
   title: "Full Stack Developer",
   description:
     "Desarrollador apasionado por crear experiencias web excepcionales",
-  email: "tu@email.com",
-  github: "https://github.com/tuusuario",
-  linkedin: "https://linkedin.com/in/tuusuario",
+  email: "riveraanderson756@gmail.com",
+  github: "https://github.com/Anderrivera7",
   siteUrl: "https://tuportafolio.com",
   avatar: "/images/avatar.png",
 };

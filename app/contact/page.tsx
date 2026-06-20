@@ -27,20 +27,12 @@ export default function ContactPage() {
           {personalInfo.email}
         </a>
         <a
-          href={personalInfo.linkedin}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="block rounded-lg bg-gray-200 px-6 py-3 text-center text-gray-800 transition hover:bg-gray-300"
-        >
-          LinkedIn
-        </a>
-        <a
           href={personalInfo.github}
           target="_blank"
           rel="noopener noreferrer"
           className="block rounded-lg bg-gray-800 px-6 py-3 text-center text-white transition hover:bg-gray-900"
         >
-          GitHub
+          GitHub — Anderrivera7
         </a>
       </div>
     </div>
